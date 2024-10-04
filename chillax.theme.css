@@ -40,7 +40,7 @@
 /*Chillax Roots*/
 :root {
     /*background image*/ /*(replace the link to use)*/
-    --background-image: var(--wallpaper);
+    --background-image: var(--modern-dark-bg);
     --bg-opacity: 100%;
     /*bg dev suggestions*/
     --wallpaper: url("https://wallpaperaccess.com/full/2799204.jpg");
